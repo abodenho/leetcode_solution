@@ -1,4 +1,3 @@
-import math
 class Solution:
     def twoSum(self, nums: list[int], target: int) -> list[int]:
         for i in range(len(nums)):

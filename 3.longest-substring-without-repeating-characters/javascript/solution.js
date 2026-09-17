@@ -20,5 +20,3 @@ var lengthOfLongestSubstring = function(s) {
 
     return maximal_value;
 };
-
-console.log(lengthOfLongestSubstring("pwwkew")); // 3
